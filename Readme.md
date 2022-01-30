@@ -1,4 +1,3 @@
-%md
 # Fraud Detection Using Isolation Forests
 
 1. In this notebook, I will use [Isolation Forests](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html) for anomaly detection.
